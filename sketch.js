@@ -57,6 +57,3 @@ function draw() {
   computer.display();
   
 }
-
-
-
